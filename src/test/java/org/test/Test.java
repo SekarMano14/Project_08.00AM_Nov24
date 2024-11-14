@@ -3,7 +3,9 @@ package org.test;
 public class Test {
 	
 	public static void main(String[] args) {
-		// here need to start you code
+		System.out.println("Test1");
+		System.out.println("Test2");
+		System.out.println("Test3");
 	}
 
 }
